@@ -1,0 +1,16 @@
+body{
+    background-color: purple;
+}
+
+p{
+    text-align: center;
+    color: gold;
+}
+
+a{
+    color: black;
+}
+
+p a:hover{
+    color: red;
+}
